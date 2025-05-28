@@ -1,4 +1,4 @@
-# ML-Enhanced Martingale Stock Analysis Tool 🚀
+# 🚀 ML-Enhanced Martingale Stock Analysis Tool 
 
 A financial analysis tool that combines traditional martingale theory with modern machine learning techniques to provide enhanced stock market predictions and investment insights. This project implements an advanced stock analysis system that leverages multiple neural network architectures to detect market regimes, predict volatility, and forecast price movements. Unlike traditional martingale analysis, this tool incorporates machine learning models to adapt to changing market conditions and provide more accurate predictions.
 
